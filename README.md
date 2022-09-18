@@ -19,3 +19,4 @@ The user can also access his/her account. He/she is provided with the following 
     • Check the status of the books they currently have borrowed
 
 Whenever a new user is registered, an email is sent to the provided email ID with the login credentials. The user can then use them to access his account, and avail the benefits of the library.
+![Annotation 2022-09-18 152342](https://user-images.githubusercontent.com/73298852/190896413-655141ee-aba0-40b0-82da-76b8cff55898.jpg)
